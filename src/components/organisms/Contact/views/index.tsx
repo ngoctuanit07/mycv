@@ -15,19 +15,19 @@ const Contact: React.FC = () => {
               <span className="info-icon"
                 ><i className="fa fa-map-marker"></i
               ></span>
-              <span className="info-text">Tan Trieu, Thanh Tri, Ha Noi</span>
+              <span className="info-text">Tam thang,Cu jut,Dak Nong</span>
             </div>
             <div className="email">
               <span className="info-icon"><i className="fa fa-envelope"></i></span>
-              <span className="info-text">truongvanphong97@gmail.com</span>
+              <span className="info-text">tuannguyen0719@gmail.com</span>
             </div>
             <div className="telephone">
               <span className="info-icon"><i className="fa fa-phone"></i></span>
-              <span className="info-text">+8491 649 3490</span>
+              <span className="info-text">+84984 350 829</span>
             </div>
             <div className="website">
               <span className="info-icon"><i className="fa fa-link"></i></span>
-              <span className="info-text">iamPhong.github.io/mycv</span>
+              <span className="info-text">https://cv.johnnguyenn.com/</span>
             </div>
           </div>
         </div>

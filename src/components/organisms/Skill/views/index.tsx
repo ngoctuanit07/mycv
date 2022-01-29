@@ -15,13 +15,13 @@ const Skill: React.FC = () => {
             <div className="skill">
               <div className="title-progress">
                 <span className="skill-name">HTML & CSS</span>
-                <span className="skill-value">70%</span>
+                <span className="skill-value">90%</span>
               </div>
               <div className="progress">
                   <div className="progress-bar progress1"
-                        role="progressbar" aria-valuenow={70}
+                        role="progressbar" aria-valuenow={90}
                         aria-valuemin={0} aria-valuemax={100}
-                        style={{width: "70%"}}
+                        style={{width: "90%"}}
                         >
                   </div>
               </div>
@@ -44,6 +44,22 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
+                <span className="skill-name">Vuejs</span>
+                <span className="skill-value">85%</span>
+              </div>
+              <div className="progress">
+                  <div className="progress-bar progress3"
+                        role="progressbar"
+                        aria-valuenow={85}
+                        aria-valuemin={0}
+                        aria-valuemax={100}
+                        style={{width: "85%"}}
+                        >
+                  </div>
+              </div>
+            </div>
+            <div className="skill">
+              <div className="title-progress">
                 <span className="skill-name">Ruby on Rails</span>
                 <span className="skill-value">90%</span>
               </div>
@@ -60,16 +76,32 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
-                <span className="skill-name">Docker</span>
-                <span className="skill-value">70%</span>
+                <span className="skill-name">Laravel</span>
+                <span className="skill-value">90%</span>
               </div>
               <div className="progress">
-                  <div className="progress-bar progress5"
+                  <div className="progress-bar progress4"
                         role="progressbar"
-                        aria-valuenow={70}
+                        aria-valuenow={90}
                         aria-valuemin={0}
                         aria-valuemax={100}
-                        style={{width: "70%"}}
+                        style={{width: "90%"}}
+                        >
+                  </div>
+              </div>
+            </div>
+            <div className="skill">
+              <div className="title-progress">
+                <span className="skill-name">Wordpress</span>
+                <span className="skill-value">85%</span>
+              </div>
+              <div className="progress">
+                  <div className="progress-bar progress4"
+                        role="progressbar"
+                        aria-valuenow={85}
+                        aria-valuemin={0}
+                        aria-valuemax={100}
+                        style={{width: "85%"}}
                         >
                   </div>
               </div>
@@ -131,8 +163,13 @@ const Skill: React.FC = () => {
                     </div>
                     <div className="skill">
                       <i className="fa fa-check-square-o" aria-hidden="true"></i>
-                      <span>Photoshop</span>
+                      <span>Git</span>
                     </div>
+                    <div className="skill">
+                      <i className="fa fa-check-square-o" aria-hidden="true"></i>
+                      <span>Server</span>
+                    </div>
+                   
                   </div>
                 </div>
                 <div className="col-sm-6">
@@ -144,6 +181,10 @@ const Skill: React.FC = () => {
                     <div className="skill">
                       <i className="fa fa-check-square-o" aria-hidden="true"></i>
                       <span>Unit Test</span>
+                    </div>
+                    <div className="skill">
+                      <i className="fa fa-check-square-o" aria-hidden="true"></i>
+                      <span>Photoshop</span>
                     </div>
                   </div>
                 </div>

@@ -52,7 +52,7 @@ const About: React.FC = () => {
                     </li>
                     <li className="li-info">
                       <span className="title-info">Website</span>
-                      <span className="info">https://iamphong.github.io/mycv</span>
+                      <span className="info">https://cv.johnnguyenn.com/</span>
                     </li>
                     <li className="li-info">
                       <span className="title-info">Nationality</span>
