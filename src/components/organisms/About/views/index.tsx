@@ -10,7 +10,7 @@ const About: React.FC = () => {
             <div className="photo-profile">
               <img src={process.env.PUBLIC_URL + "/images/me.jpg"} alt="Nguyen Ngoc Tuan" />
             </div>
-            <a href={process.env.PUBLIC_URL + "/cv/CV.pdf"} target="cv">
+            <a href={process.env.PUBLIC_URL + "/cv/cv_tuannguyen.pdf"} target="cv">
               <div className="download-resume">
                 <i className="fa fa-cloud-download" aria-hidden="true"></i>
                 <span className="text-download">DOWNLOAD CV</span>
