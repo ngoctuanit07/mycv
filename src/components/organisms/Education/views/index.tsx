@@ -10,7 +10,7 @@ const Education: React.FC = () => {
         <div className="col-sm-6">
           <div className="education-content">
             <div className="period">
-              <h3>Jan 2019 - Apr 2019</h3>
+              <h3>Jan 2012 - Apr 2013</h3>
             </div>
             <ul className="ul-education">
               <li className="li-specialty">
@@ -22,20 +22,19 @@ const Education: React.FC = () => {
               <li className="li-university">
                 <div className="university">
                   <span className="education-icon"><i className="fa fa-building"></i></span>
-                  <span className="university-name">Sun * Inc</span>
+                  <span className="university-name">Internet</span>
                 </div>
               </li>
             </ul>
             <p className="prg-education">
-              Take a course called "Open Education" about programming languages Ruby On Rails.
-              Learn how to use git, teamwork, design database, etc
+            Learn how to use git, teamwork, design database, etc
             </p>
           </div>
         </div>
         <div className="col-sm-6">
           <div className="education-content">
             <div className="period">
-              <h3>2015 - 2020</h3>
+              <h3>2009 - 2012</h3>
             </div>
             <ul className="ul-education">
               <li className="li-specialty">
@@ -47,14 +46,12 @@ const Education: React.FC = () => {
               <li className="li-university">
                 <div className="university">
                   <span className="education-icon"><i className="fa fa-university"></i></span>
-                  <span className="university-name">Academy Of Cryptography Techniques</span>
+                  <span className="university-name">Thu Duc Technology College</span>
                 </div>
               </li>
             </ul>
             <p className="prg-education">
-              I'm a student in KMA university. My specialize is Information Security.
-              I completed this degree from this prestigious insitution.
-              I successful completed all the credits without any fallout and got Good grade overall.
+            I am a student at Thu Duc College of Technology. My major is Software Engineering. I completed this degree from this prestigious patronage. I successfully completed all the credits without any drop and got an Overall Good.
             </p>
           </div>
         </div>

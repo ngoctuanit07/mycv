@@ -13,55 +13,51 @@ const Experience: React.FC = () => {
           </span>
           <div className="all-experience">
             <div className="experience-content">
-              <span className="period-experience">Nov 2020 - Current</span>
+              <span className="period-experience"> 8/2018 - present</span>
               <h3 className="specialty-name">Web Developer</h3>
-              <h3 className="company-name">Sun * Inc</h3>
-              <p className="prg-experience">
-                Updatting...
-              </p>
-            </div>
-            <div className="experience-content">
-              <span className="period-experience">Mar 2020 - Nov 2020</span>
-              <h3 className="specialty-name">Web Developer</h3>
-              <h3 className="company-name">Sun * Inc</h3>
+              <h3 className="company-name">Viet A Technology Joint Stock Company </h3>
               <div className="prg-experience">
-                <p>Full-time Staff.</p>
-                <p>Project: Maz___</p>
-                <p>Technologies: Ruby On Rails, AngularJs, React Js, MySQL, Docker</p>
+                <p>Building interfaces for clinic software using vuejs technology</p>
               </div>
             </div>
             <div className="experience-content">
-              <span className="period-experience">Jul 2019 - Mar 2020</span>
+              <span className="period-experience">2017 - 8/2018</span>
               <h3 className="specialty-name">Web Developer</h3>
-              <h3 className="company-name">Sun * Inc</h3>
-              <div className="prg-experience">
-                <p>Full-time Staff.</p>
-                <p>Project: La___ St__</p>
-                <p>Technologies: Ruby On Rails, AngularJs, ElasticSearch, MySQL</p>
-              </div>
-            </div>
-            <div className="experience-content">
-              <span className="period-experience">Apr 2019 - Jul 2019</span>
-              <h3 className="specialty-name">Web Developer</h3>
-              <h3 className="company-name">Sun * Inc</h3>
+              <h3 className="company-name">Levinci  Company</h3>
               <p className="prg-experience">
-                Interns.
+               Work: Develop, maintain, write extensions, write themes for projects the company 
               </p>
             </div>
             <div className="experience-content">
-              <span className="period-experience">Jan 2019 - Apr 2019</span>
-              <h3 className="specialty-name">Trainee</h3>
-              <h3 className="company-name">Sun Education</h3>
+              <span className="period-experience">2016 - 2017</span>
+              <h3 className="specialty-name">Web Developer</h3>
+              <h3 className="company-name">Skyfronts Technology Company</h3>
               <p className="prg-experience">
-                I'm a trainee Ruby on Rails in Sun Education.
+               Work: Develop, maintain, write extensions, write themes for projects the company 
               </p>
             </div>
             <div className="experience-content">
-              <span className="period-experience">Jun 2015 - Apr 2019</span>
+              <span className="period-experience">2014 - 2016</span>
+              <h3 className="specialty-name">Web Developer</h3>
+              <h3 className="company-name">PhuNam Technology Company</h3>
+              <p className="prg-experience">
+               Work: Develop, maintain, write extensions, write themes for projects the company 
+              </p>
+            </div>
+            <div className="experience-content">
+              <span className="period-experience">2013 - 2014</span>
+              <h3 className="specialty-name">Web Developer</h3>
+              <h3 className="company-name">Vinadigistar Information Technology and Solution Company</h3>
+              <p className="prg-experience">
+                Website design and new module programming according to company cms
+              </p>
+            </div>
+            <div className="experience-content">
+              <span className="period-experience">2009 - 2012</span>
               <h3 className="specialty-name">Student</h3>
               <h3 className="company-name">ACADEMEY OF CRYPTOGRAPHY TECHIQUES</h3>
               <p className="prg-experience">
-                I'm a student in KMA university. My specialize is Information Security.
+               I am a student at Thu Duc College of Technology. My major is Software Engineering.
               </p>
             </div>
           </div>
