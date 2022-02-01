@@ -11,22 +11,17 @@ const SocialLinks: React.FC = () => {
           </a>
         </li>
         <li>
-          <a href="# ">
+          <a href="https://twitter.com/ngoctuanit07">
             <i className="fa fa-twitter"></i>
           </a>
         </li>
         <li>
-          <a href="# ">
-            <i className="fa fa-google-plus"></i>
-          </a>
-        </li>
-        <li>
-          <a href="# ">
+          <a href="https://www.linkedin.com/in/tuan-nguyen-b806b5127/">
             <i className="fa fa-linkedin"></i>
           </a>
         </li>
         <li>
-          <a href="# ">
+          <a href="https://www.pinterest.com/skyfrontsdev/_saved/">
             <i className="fa fa-pinterest-p"></i>
           </a>
         </li>
