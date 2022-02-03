@@ -106,6 +106,22 @@ const Skill: React.FC = () => {
                   </div>
               </div>
             </div>
+            <div className="skill">
+              <div className="title-progress">
+                <span className="skill-name">Magento 1</span>
+                <span className="skill-value">90%</span>
+              </div>
+              <div className="progress">
+                  <div className="progress-bar progress4"
+                        role="progressbar"
+                        aria-valuenow={90}
+                        aria-valuemin={0}
+                        aria-valuemax={100}
+                        style={{width: "90%"}}
+                        >
+                  </div>
+              </div>
+            </div>
           </div>
         </div>
         <div className="col-md-7">

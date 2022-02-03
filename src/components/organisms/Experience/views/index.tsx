@@ -25,7 +25,7 @@ const Experience: React.FC = () => {
               <h3 className="specialty-name">Web Developer</h3>
               <h3 className="company-name">Levinci  Company</h3>
               <p className="prg-experience">
-               Work: Develop, maintain, write extensions, write themes for projects the company 
+               Work: Develop, maintain, write extensions, themes magento 1  for projects the company 
               </p>
             </div>
             <div className="experience-content">
@@ -33,7 +33,7 @@ const Experience: React.FC = () => {
               <h3 className="specialty-name">Web Developer</h3>
               <h3 className="company-name">Skyfronts Technology Company</h3>
               <p className="prg-experience">
-               Work: Develop, maintain, write extensions, write themes for projects the company 
+               Work: Develop, maintain, write extensions, themes magento 1  for projects the company 
               </p>
             </div>
             <div className="experience-content">
@@ -41,7 +41,7 @@ const Experience: React.FC = () => {
               <h3 className="specialty-name">Web Developer</h3>
               <h3 className="company-name">PhuNam Technology Company</h3>
               <p className="prg-experience">
-               Work: Develop, maintain, write extensions, write themes for projects the company 
+               Work: Develop, maintain, write extensions, themes magento 1 for projects the company 
               </p>
             </div>
             <div className="experience-content">
@@ -55,7 +55,7 @@ const Experience: React.FC = () => {
             <div className="experience-content">
               <span className="period-experience">2009 - 2012</span>
               <h3 className="specialty-name">Student</h3>
-              <h3 className="company-name">ACADEMEY OF CRYPTOGRAPHY TECHIQUES</h3>
+              <h3 className="company-name">Thu Duc Technology College</h3>
               <p className="prg-experience">
                I am a student at Thu Duc College of Technology. My major is Software Engineering.
               </p>
