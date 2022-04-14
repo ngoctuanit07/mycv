@@ -27,7 +27,7 @@ const Contact: React.FC = () => {
             </div>
             <div className="website">
               <span className="info-icon"><i className="fa fa-link"></i></span>
-              <span className="info-text">https://johnnguyenn.com/</span>
+              <span className="info-text">https://nguyenngoctuan07.com/</span>
             </div>
           </div>
         </div>
