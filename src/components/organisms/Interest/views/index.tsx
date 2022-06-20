@@ -8,8 +8,7 @@ const Interest: React.FC = () => {
       <HeaderSection>INTEREST</HeaderSection>
       <div className="text-interests">
         <p>
-          "Hãy bắt đầu làm những việc cần thiết, sau đó làm những việc bạn có thể,
-          và tự nhiên bạn có thể làm những điều không thể"
+          "Start doing the necessary things, then do the things you can, and naturally, you can do the impossible."
         </p>
       </div>
       <div className="swiper-container">

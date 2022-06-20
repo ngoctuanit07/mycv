@@ -60,22 +60,6 @@ const Skill: React.FC = () => {
             </div>
             <div className="skill">
               <div className="title-progress">
-                <span className="skill-name">Ruby on Rails</span>
-                <span className="skill-value">90%</span>
-              </div>
-              <div className="progress">
-                  <div className="progress-bar progress4"
-                        role="progressbar"
-                        aria-valuenow={90}
-                        aria-valuemin={0}
-                        aria-valuemax={100}
-                        style={{width: "90%"}}
-                        >
-                  </div>
-              </div>
-            </div>
-            <div className="skill">
-              <div className="title-progress">
                 <span className="skill-name">Laravel</span>
                 <span className="skill-value">90%</span>
               </div>
@@ -102,6 +86,22 @@ const Skill: React.FC = () => {
                         aria-valuemin={0}
                         aria-valuemax={100}
                         style={{width: "85%"}}
+                        >
+                  </div>
+              </div>
+            </div>
+            <div className="skill">
+              <div className="title-progress">
+                <span className="skill-name">Linux</span>
+                <span className="skill-value">80%</span>
+              </div>
+              <div className="progress">
+                  <div className="progress-bar progress4"
+                        role="progressbar"
+                        aria-valuenow={80}
+                        aria-valuemin={0}
+                        aria-valuemax={100}
+                        style={{width: "80%"}}
                         >
                   </div>
               </div>
