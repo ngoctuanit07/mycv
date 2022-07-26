@@ -6,7 +6,7 @@ const SocialLinks: React.FC = () => {
     <LinkDiv>
       <ul>
         <li>
-          <a href="https://www.facebook.com/johnnguyenweb/">
+          <a href="https://www.facebook.com/tuannguyendev1991">
             <i className="fa fa-facebook"></i>
           </a>
         </li>

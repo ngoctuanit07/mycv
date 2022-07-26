@@ -5,36 +5,15 @@ import HeaderSection from '../../../molecules/HeaderSection'
 const Portfolio: React.FC = () => {
   return(
     <PortfolioSection id="portfolio" data-wow-offset="40">
-      <HeaderSection>PORTFOLIO</HeaderSection>
+      <HeaderSection>Project Was Implemented</HeaderSection>
       <div className="filter-portfolio">
         <ul>
           <li className="active filter" data-filter="all">All</li>
-          <li className="filter" data-filter=".term1">Web Design</li>
-          <li className="filter" data-filter=".term2">Photography</li>
-          <li className="filter" data-filter=".term3">Development</li>
+          <li className="filter" data-filter=".term1">Wordpress</li>
+          <li className="filter" data-filter=".term2">Laravel</li>
         </ul>
       </div>
       <div className="row">
-        <div className="col-sm-4">
-          <div className="item-portfolio term3">
-            <div className="item-overlay">
-              <div className="item-content">
-                <span className="icon-search">
-                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item1.jpg"} data-group="1">
-                    <i className="fa fa-search" aria-hidden="true"></i>
-                  </a>
-                </span>
-                <span className="icon-plus">
-                  <a href="# ">
-                    <i className="fa fa-plus" aria-hidden="true"></i>
-                  </a>
-                </span>
-                <h3>AWESOME TITLE PORTFOLIO</h3>
-              </div>
-            </div>
-            <img src={process.env.PUBLIC_URL + "/images/portfolio/item1.jpg"} alt="" />
-          </div>
-        </div>
         <div className="col-sm-4">
           <div className="item-portfolio term1">
             <div className="item-overlay">
@@ -97,6 +76,86 @@ const Portfolio: React.FC = () => {
           </div>
         </div>
         <div className="col-sm-4">
+          <div className="item-portfolio term2">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="item-portfolio term2">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="item-portfolio term2">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="item-portfolio term2">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item4.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
           <div className="item-portfolio term1">
             <div className="item-overlay">
               <div className="item-content">
@@ -117,11 +176,11 @@ const Portfolio: React.FC = () => {
           </div>
         </div>
         <div className="col-sm-4">
-          <div className="item-portfolio term3">
+          <div className="item-portfolio term1">
             <div className="item-overlay">
               <div className="item-content">
                 <span className="icon-search">
-                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item6.jpg"} data-group="1">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} data-group="1">
                     <i className="fa fa-search" aria-hidden="true"></i>
                   </a>
                 </span>
@@ -133,7 +192,67 @@ const Portfolio: React.FC = () => {
                 <h3>AWESOME TITLE PORTFOLIO</h3>
               </div>
             </div>
-            <img src={process.env.PUBLIC_URL + "/images/portfolio/item6.jpg"} alt="" />
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="item-portfolio term1">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="item-portfolio term1">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} alt="" />
+          </div>
+        </div>
+        <div className="col-sm-4">
+          <div className="item-portfolio term1">
+            <div className="item-overlay">
+              <div className="item-content">
+                <span className="icon-search">
+                  <a className="work-popup" href={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} data-group="1">
+                    <i className="fa fa-search" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <span className="icon-plus">
+                  <a href="# ">
+                    <i className="fa fa-plus" aria-hidden="true"></i>
+                  </a>
+                </span>
+                <h3>AWESOME TITLE PORTFOLIO</h3>
+              </div>
+            </div>
+            <img src={process.env.PUBLIC_URL + "/images/portfolio/item5.jpg"} alt="" />
           </div>
         </div>
         <div className="clearfix"></div>
